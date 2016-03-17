@@ -1,13 +1,13 @@
 # access
 ## [Access web app add-ins](docs/access/access-web-app-add-ins.md)
 # design
-# ui-elements
-## [interaction-patterns](docs/design/ui-elements/interaction-patterns.md)
-## [Layout for content add-ins](docs/design/ui-elements/layout-for-content-add-ins.md)
-## [Layout for task pane add-ins](docs/design/ui-elements/layout-for-task-pane-add-ins.md)
-## [Layouts for Outlook add-ins](docs/design/ui-elements/layouts-for-outlook-add-ins.md)
-## [UI elements](docs/design/ui-elements/ui-elements.md)
-## [using-office-ui-fabric](docs/design/ui-elements/using-office-ui-fabric.md)
+## ui-elements
+### [interaction-patterns](docs/design/ui-elements/interaction-patterns.md)
+### [Layout for content add-ins](docs/design/ui-elements/layout-for-content-add-ins.md)
+### [Layout for task pane add-ins](docs/design/ui-elements/layout-for-task-pane-add-ins.md)
+### [Layouts for Outlook add-ins](docs/design/ui-elements/layouts-for-outlook-add-ins.md)
+### [UI elements](docs/design/ui-elements/ui-elements.md)
+### [using-office-ui-fabric](docs/design/ui-elements/using-office-ui-fabric.md)
 ## [Add-in commands for Excel and Word (Preview)](docs/design/add-in-commands-for-excel-and-word-preview.md)
 ## [Add-in design](docs/design/add-in-design.md)
 ## [Add-in development best practices](docs/design/add-in-development-best-practices.md)
@@ -47,10 +47,10 @@
 # mailbox
 ## [mailbox-api](docs/mailbox/mailbox-api.md)
 # outlook
-# manifests
-## [Activation rules](docs/outlook/manifests/activation-rules.md)
-## [Define add-in commands](docs/outlook/manifests/define-add-in-commands.md)
-## [Manifests](docs/outlook/manifests/manifests.md)
+## manifests
+### [Activation rules](docs/outlook/manifests/activation-rules.md)
+### [Define add-in commands](docs/outlook/manifests/define-add-in-commands.md)
+### [Manifests](docs/outlook/manifests/manifests.md)
 ## [Add and remove attachments to an item in a compose form](docs/outlook/add-and-remove-attachments-to-an-item-in-a-compose-form.md)
 ## [Add-in commands for Outlook](docs/outlook/add-in-commands-for-outlook.md)
 ## [APIs](docs/outlook/apis.md)
@@ -93,14 +93,14 @@
 ## [requirements-for-running-office-add-ins](docs/overview/requirements-for-running-office-add-ins.md)
 ## [specify-office-hosts-and-api-requirements](docs/overview/specify-office-hosts-and-api-requirements.md)
 # powerpoint
-# office-mix
-## [Configuring and editing LabsJS labs for Office Mix](docs/powerpoint/office-mix/configuring-and-editing-labsjs-labs-for-office-mix.md)
-## [Walkthrough: Creating your first lab for Office Mix](docs/powerpoint/office-mix/creating-your-first-lab-for-office-mix.md)
-## [Get started with LabsJS for Office Mix](docs/powerpoint/office-mix/get-started-with-labsjs-for-office-mix.md)
-## [Guidelines for creating labs for Mix using LabsJS](docs/powerpoint/office-mix/guidelines-for-creating-labs-for-mix-using-labsjs.md)
-## [LabsJS lab components](docs/powerpoint/office-mix/labsjs-lab-components.md)
-## [LabsJS labs for Office Mix examples](docs/powerpoint/office-mix/labsjs-labs-for-office-mix-examples.md)
-## [Office Mix add-ins](docs/powerpoint/office-mix/office-mix-add-ins.md)
+## office-mix
+### [Configuring and editing LabsJS labs for Office Mix](docs/powerpoint/office-mix/configuring-and-editing-labsjs-labs-for-office-mix.md)
+### [Walkthrough: Creating your first lab for Office Mix](docs/powerpoint/office-mix/creating-your-first-lab-for-office-mix.md)
+### [Get started with LabsJS for Office Mix](docs/powerpoint/office-mix/get-started-with-labsjs-for-office-mix.md)
+### [Guidelines for creating labs for Mix using LabsJS](docs/powerpoint/office-mix/guidelines-for-creating-labs-for-mix-using-labsjs.md)
+### [LabsJS lab components](docs/powerpoint/office-mix/labsjs-lab-components.md)
+### [LabsJS labs for Office Mix examples](docs/powerpoint/office-mix/labsjs-labs-for-office-mix-examples.md)
+### [Office Mix add-ins](docs/powerpoint/office-mix/office-mix-add-ins.md)
 ## [PowerPoint add-ins](docs/powerpoint/powerpoint-add-ins.md)
 ## [Use document themes in your PowerPoint add-ins](docs/powerpoint/use-document-themes-in-your-powerpoint-add-ins.md)
 # project
