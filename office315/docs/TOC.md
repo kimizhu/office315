@@ -1,7 +1,7 @@
-# access
+# [access](access/access-web-app-add-ins.md)
 ## [Access web app add-ins](access/access-web-app-add-ins.md)
-# design
-## ui-elements
+# [design](design/ui-elements/interaction-patterns.md)
+## [ui-elements](design/ui-elements/interaction-patterns.md)
 ### [interaction-patterns](design/ui-elements/interaction-patterns.md)
 ### [Layout for content add-ins](design/ui-elements/layout-for-content-add-ins.md)
 ### [Layout for task pane add-ins](design/ui-elements/layout-for-task-pane-add-ins.md)
@@ -14,7 +14,7 @@
 ## [Add-in development lifecycle](design/add-in-development-lifecycle.md)
 ## [Create add-in commands in your manifest (Preview)](design/create-add-in-commands-in-your-manifest-preview.md)
 ## [Design Office Add-ins for the iPad](design/design-office-add-ins-for-the-ipad.md)
-# develop
+# [develop](develop/addressing-same-origin-policy-limitations.md)
 ## [addressing-same-origin-policy-limitations](develop/addressing-same-origin-policy-limitations.md)
 ## [asynchronous-programming-in-office-add-ins](develop/asynchronous-programming-in-office-add-ins.md)
 ## [Bind to regions in a document or spreadsheet](develop/bind-to-regions-in-a-document-or-spreadsheet.md)
@@ -33,21 +33,21 @@
 ## [resource-limits-and-performance-optimization](develop/resource-limits-and-performance-optimization.md)
 ## [understanding-the-javascript-api-for-office](develop/understanding-the-javascript-api-for-office.md)
 ## [update-your-javascript-api-for-office-and-manifest-schema-version](develop/update-your-javascript-api-for-office-and-manifest-schema-version.md)
-# excel
+# [excel](excel/build-your-first-excel-add-in.md)
 ## [Build your first Excel add-in](excel/build-your-first-excel-add-in.md)
 ## [code-samples](excel/code-samples.md)
 ## [Excel Add-in code samples](excel/excel-add-in-code-samples.md)
 ## [Excel Add-ins JavaScript API reference](excel/excel-add-ins-javascript-api-reference.md)
 ## [Excel Add-ins JavaScript programming overview](excel/excel-add-ins-javascript-programming-overview.md)
 ## [Excel add-ins](excel/excel-add-ins.md)
-# get-started
+# [get-started](get-started/create-an-office-add-in-using-any-editor.md)
 ## [create-an-office-add-in-using-any-editor](get-started/create-an-office-add-in-using-any-editor.md)
 ## [create-an-office-add-in-with-napa](get-started/create-an-office-add-in-with-napa.md)
 ## [create-and-debug-office-add-ins-in-visual-studio](get-started/create-and-debug-office-add-ins-in-visual-studio.md)
-# mailbox
+# [mailbox](mailbox/mailbox-api.md)
 ## [mailbox-api](mailbox/mailbox-api.md)
-# outlook
-## manifests
+# [outlook](outlook/manifests/activation-rules.md)
+## [manifests](outlook/manifests/activation-rules.md)
 ### [Activation rules](outlook/manifests/activation-rules.md)
 ### [Define add-in commands](outlook/manifests/define-add-in-commands.md)
 ### [Manifests](outlook/manifests/manifests.md)
@@ -87,13 +87,13 @@
 ## [Use the token validation library](outlook/use-the-token-validation-library.md)
 ## [Validate an identity token](outlook/validate-an-identity-token.md)
 ## [Web services](outlook/web-services.md)
-# overview
+# [overview](overview/add-in-manifests.md)
 ## [add-in-manifests](overview/add-in-manifests.md)
 ## [office-add-ins](overview/office-add-ins.md)
 ## [requirements-for-running-office-add-ins](overview/requirements-for-running-office-add-ins.md)
 ## [specify-office-hosts-and-api-requirements](overview/specify-office-hosts-and-api-requirements.md)
-# powerpoint
-## office-mix
+# [powerpoint](powerpoint/office-mix/configuring-and-editing-labsjs-labs-for-office-mix.md)
+## [office-mix](powerpoint/office-mix/configuring-and-editing-labsjs-labs-for-office-mix.md)
 ### [Configuring and editing LabsJS labs for Office Mix](powerpoint/office-mix/configuring-and-editing-labsjs-labs-for-office-mix.md)
 ### [Walkthrough: Creating your first lab for Office Mix](powerpoint/office-mix/creating-your-first-lab-for-office-mix.md)
 ### [Get started with LabsJS for Office Mix](powerpoint/office-mix/get-started-with-labsjs-for-office-mix.md)
@@ -103,11 +103,11 @@
 ### [Office Mix add-ins](powerpoint/office-mix/office-mix-add-ins.md)
 ## [PowerPoint add-ins](powerpoint/powerpoint-add-ins.md)
 ## [Use document themes in your PowerPoint add-ins](powerpoint/use-document-themes-in-your-powerpoint-add-ins.md)
-# project
+# [project](project/create-a-project-add-in-that-uses-rest-with-an-on-premises-odata-service.md)
 ## [Create a Project add-in that uses REST with an on-premises OData service](project/create-a-project-add-in-that-uses-rest-with-an-on-premises-odata-service.md)
 ## [Create your first task pane add-in for Project by using a text editor](project/create-your-first-task-pane-add-in-for-project-by-using-a-text-editor.md)
 ## [Project add-ins](project/project-add-ins.md)
-# publish
+# [publish](publish/create-a-network-shared-folder-catalog-for-task-pane-and-content-add-ins.md)
 ## [Create a network shared folder catalog for task pane and content add-ins](publish/create-a-network-shared-folder-catalog-for-task-pane-and-content-add-ins.md)
 ## [host-an-office-add-in-on-microsoft-azure](publish/host-an-office-add-in-on-microsoft-azure.md)
 ## [package-your-add-in-using-napa-or-visual-studio](publish/package-your-add-in-using-napa-or-visual-studio.md)
@@ -116,12 +116,12 @@
 ## [set-up-an-add-in-catalog-on-office-365](publish/set-up-an-add-in-catalog-on-office-365.md)
 ## [Set up an add-in catalog on SharePoint](publish/set-up-an-add-in-catalog-on-sharepoint.md)
 ## [tips-and-tricks-for-improving-performance-and-experience-of-Office-add-ins](publish/tips-and-tricks-for-improving-performance-and-experience-of-Office-add-ins.md)
-# testing
+# [testing](testing/debug-add-ins-in-office-online.md)
 ## [Debug add-ins in Office Online](testing/debug-add-ins-in-office-online.md)
 ## [debug-add-ins-using-f12-developer-tools-on-windows-10](testing/debug-add-ins-using-f12-developer-tools-on-windows-10.md)
 ## [Debug Office Add-ins on iPad and Mac](testing/debug-office-add-ins-on-ipad-and-mac.md)
 ## [Sideload an Office Add-in on iPad and Mac](testing/sideload-an-office-add-in-on-ipad-and-mac.md)
 ## [Testing and troubleshooting](testing/testing-and-troubleshooting.md)
-# word
+# [word](word/word-add-ins-programming-overview.md)
 ## [Word add-ins programming overview](word/word-add-ins-programming-overview.md)
 ## [Word add-ins](word/word-add-ins.md)
