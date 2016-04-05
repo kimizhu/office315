@@ -15,15 +15,5 @@ Office Mix supports the following four lab component types:
 -  **Input component** ( **IInputComponent**). Enables free form user input. Use this component type when you want to get responses to questions or math problems from the user, for example, or for other problem types that require text inputs from the user. For more information, see [Labs.Components.InputComponentInstance](../../../reference/office-mix/labs.components.inputcomponentinstance.md).
     
 -  **Dynamic component** ( **IDynamicComponent**). Generates other component types at runtime. Use this component type when you have branching questions, for example, where follow-up component types vary depending on a previous user input. This type also enables creating quiz banks or generating problems at runtime. For more information, see [Labs.Components.DynamicComponentInstance](../../../reference/office-mix/labs.components.dynamiccomponentinstance.md).
-    
 
-## Additional resources
-
-
-
-- [Office Mix add-ins](../../powerpoint/office-mix/office-mix-add-ins.md)
-    
-- [Configuring and editing LabsJS labs for Office Mix](../../powerpoint/office-mix/configuring-and-editing-labsjs-labs-for-office-mix.md)
-    
-- [Walkthrough: Creating your first lab for Office Mix](../../powerpoint/office-mix/walkthrough:-creating-your-first-lab-for-office-mix.md)
     
