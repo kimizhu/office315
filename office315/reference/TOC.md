@@ -1,4 +1,4 @@
-# excel
+# [excel](excel/application.md)
 ## [application](excel/application.md)
 ## [binding](excel/binding.md)
 ## [bindingcollection](excel/bindingcollection.md)
@@ -47,7 +47,7 @@
 ## [workbook](excel/workbook.md)
 ## [worksheet](excel/worksheet.md)
 ## [worksheetcollection](excel/worksheetcollection.md)
-# manifest
+# [manifest](manifest/allowsnapshot.md)
 ## [allowsnapshot](manifest/allowsnapshot.md)
 ## [alternateid](manifest/alternateid.md)
 ## [appdomain](manifest/appdomain.md)
@@ -89,7 +89,7 @@
 ## [targetdialect](manifest/targetdialect.md)
 ## [targetdialects](manifest/targetdialects.md)
 ## [version](manifest/version.md)
-# office-mix
+# [office-mix](office-mix/labs-classes.md)
 ## [Labs Classes](office-mix/labs-classes.md)
 ## [Labs Enumerations](office-mix/labs-enumerations.md)
 ## [Labs Functions](office-mix/labs-functions.md)
@@ -202,8 +202,8 @@
 ## [LabsJS.Labs.Core.GetActions](office-mix/labsjs.labs.core.getactions.md)
 ## [LabsJS.Labs.Core](office-mix/labsjs.labs.core.md)
 ## [LabsJS.Labs](office-mix/labsjs.labs.md)
-# outlook
-## 1.1
+# [outlook](outlook/1.1/Body.md)
+## [1.1](outlook/1.1/Body.md)
 ### [Body](outlook/1.1/Body.md)
 ### [CustomProperties](outlook/1.1/CustomProperties.md)
 ### [index](outlook/1.1/index.md)
@@ -220,7 +220,7 @@
 ### [simple-types](outlook/1.1/simple-types.md)
 ### [Subject](outlook/1.1/Subject.md)
 ### [Time](outlook/1.1/Time.md)
-## 1.2
+## [1.2](outlook/1.2/Body.md)
 ### [Body](outlook/1.2/Body.md)
 ### [CustomProperties](outlook/1.2/CustomProperties.md)
 ### [index](outlook/1.2/index.md)
@@ -256,7 +256,7 @@
 ## [Subject](outlook/Subject.md)
 ## [Time](outlook/Time.md)
 ## [tutorial-api-requirement-sets](outlook/tutorial-api-requirement-sets.md)
-# shared
+# [shared](shared/activeview-enumeration.md)
 ## [ActiveView enumeration](shared/activeview-enumeration.md)
 ## [asyncresult.asynccontext](shared/asyncresult.asynccontext.md)
 ## [asyncresult.context](shared/asyncresult.context.md)
@@ -455,7 +455,7 @@
 ## [tabledata](shared/tabledata.md)
 ## [rows property](shared/tabledata.rows.md)
 ## [ValueFormat enumeration](shared/valueformat-enumeration.md)
-# word
+# [word](word/body.md)
 ## [body](word/body.md)
 ## [breakType](word/breaktype.md)
 ## [contentControl](word/contentcontrol.md)
@@ -474,9 +474,3 @@
 ## [section](word/section.md)
 ## [sectionCollection](word/sectioncollection.md)
 ## [Word add-ins Javascript reference](word/word-add-ins-javascript-reference.md)
-# javascript-api-for-office-error-codes
-# javascript-api-for-office
-# office-add-in-requirement-sets
-# reference
-# schema-reference-for-office-add-ins-manifests-v1.1
-# what's-changed-in-the-javascript-api-for-office
